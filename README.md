@@ -1,2 +1,13 @@
-# Irancloud
-Android Music Player powered by SoundCloud
+# IranCloud
+
+اپلیکیشن بومی اندروید برای کشف و پخش موسیقی با طراحی آرام آبی و سفید.
+
+## وضعیت فعلی
+- پروژه Native Android با Kotlin و Jetpack Compose
+- صفحه اصلی اولیه، جستجوی نمایشی، دسته‌بندی سبک‌ها و نوار پیمایش
+- اتصال SoundCloud هنوز پیاده‌سازی نشده است.
+
+## ساخت برنامه
+پروژه را در Android Studio باز کنید، Gradle Sync را اجرا کنید و سپس از مسیر Build > Build APK(s) فایل نصب را بسازید.
+
+اتصال SoundCloud پس از دریافت دسترسی رسمی API و رعایت شرایط پخش و انتساب منبع انجام می‌شود.
